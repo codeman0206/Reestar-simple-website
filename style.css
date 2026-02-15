@@ -18,14 +18,13 @@ body {
     color:white;
     padding: 10px;
     margin: 5px;
-    
 
 }
 
 .section-two__img,.section-three__img,.section-four__img,.section-five__img{
-    height: 200px;
-    width: 200px;
-    object-fit: fill;
+    height: 252px;
+    width: 252px;
+    object-fit: cover;
 }
 
 .section-two,.section-three,.section-four,.section-five{
@@ -41,6 +40,7 @@ body {
 
 .section-two__button,.section-three__button,.section-four__button,.section-five__button{
     background-color: rgb(175, 228, 30);
+    margin-bottom: 2px;
 }
 .container-one{
     text-align: center;
